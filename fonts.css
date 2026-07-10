@@ -1,12 +1,42 @@
 @font-face {
    font-family: "Bebas Neue Bold";
-   src: url("fonts/Bebas Neue Bold.eot") format("embedded-opentype"), url("fonts/Bebas Neue Bold.ttf") format("truetype"), url("fonts/Bebas Neue Bold.woff") format("woff"), url("fonts/Bebas Neue Bold.svg") format("svg");
+   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
    font-weight: bold;
    font-style: normal;
 }
 @font-face {
-   font-family: "Bebas Neue Bold";
-   src: url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype"), url("fonts/BebasNeueBold.woff") format("woff");
+   font-family: "Oswald";
+   src: url("fonts/Oswald Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald Regular";
+   src: url("fonts/Oswald Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas";
+   src: url("fonts/Bebas.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Regular";
+   src: url("fonts/BebasNeueRegular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue";
+   src: url("fonts/BebasNeue.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff2") format("woff2");
    font-weight: bold;
    font-style: normal;
 }
